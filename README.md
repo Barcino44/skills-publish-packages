@@ -103,6 +103,14 @@ Let's trying running it.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+<p align="center">
+  <img width="1682" height="79" alt="image" src="https://github.com/user-attachments/assets/9d5141c3-649d-4bf7-9096-31c569f0c516" />
+</p>
+
+<p align="center">
+  <img width="1861" height="591" alt="image" src="https://github.com/user-attachments/assets/10a2d908-2b97-48c8-89b7-fd9d0f7e73b3" />
+</p>
+
 ## Finish
 
 _Congratulations friend, you've completed this course!_
