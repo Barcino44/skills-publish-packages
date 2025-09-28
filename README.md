@@ -102,7 +102,7 @@ Let's trying running it.
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
-
+**In this case, it was used WSL instead docker desktop to finish the exercise**
 <p align="center">
   <img width="1682" height="79" alt="image" src="https://github.com/user-attachments/assets/9d5141c3-649d-4bf7-9096-31c569f0c516" />
 </p>
